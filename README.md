@@ -1,0 +1,1 @@
+# HQL.-ManyToOne-Joint
